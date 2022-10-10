@@ -16,7 +16,7 @@ class login extends StatefulWidget {
 
   @override
   State<login> createState() => _loginState();
-  
+
 }
 class _loginState extends State<login> {
   @override
@@ -41,7 +41,7 @@ class _loginState extends State<login> {
                     color: Colors.teal,
                   ),
                   title: Text(
-                    '+91 9888775140',
+                    '+91 ',
                     style: TextStyle(
                         fontFamily: 'SourceSansPro',
                         color: Colors.teal.shade900,
